@@ -1,4 +1,4 @@
-# Proyecto acerca de tiraderos clandestinos de basura en la CDMX
+# Proyecto acerca de tiraderos de basura clandestinos en la CDMX
 Proyecto #4 de la materia Ingeniería de Caracteristicas impartida por el Dr. Julio Waissman en la Maestría en Ciencia de Datos.
 Elaborado por: Carlos Alejandro Velázquez Valdez
 
