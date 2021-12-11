@@ -9,7 +9,7 @@ A continuación una descripción de los directorios de este repositorio para fac
 *   **datos_generados**: Contiene dos archivos .csv generados con el archivo *Notebook_Proyecto_Integrador_MCD.ipynb*
 *   **diccionario_datos**: Contiene los diccionarios de datos de los datos generados
 *   **reporte_gerencial**: Contiene el PDF del reporte gerencial
-*   **Notebook_Proyecto_Integrador_MCD.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosvelv/proyecto_integrador/Notebook_Proyecto_Integrador_MCD.ipynb]
+*   **Notebook_Proyecto_Integrador_MCD.ipynb**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carlosvelv/proyecto_integrador/blob/main/Notebook_Proyecto_Integrador_MCD.ipynb)
       * Descripción detallada del problema a resolver
       * Script para la obtención de los datos
       * Análisis de Datos exploratorio(EDA)
